@@ -52,3 +52,6 @@ Assets/StreamingAssets/.json
 Bundles
 Assets/Plugins/Sirenix
 Assets/Plugins/Sirenix.meta
+
+Assets/third/DOTween
+Assets/third/DOTween.meta
